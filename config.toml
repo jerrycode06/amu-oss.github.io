@@ -1,0 +1,17 @@
+baseURL = "http://example.com/"
+languageCode = "en-us"
+title = "AMU-OSS"
+theme = "hugograyscale"
+#googleAnalytics = ""
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[params]
+    # Provide some metadata for search and indexing services
+    description = "Tech community - Of the students, By the students, For the students"
+
+[Author]
+    name = "AMU-OSS"
+    email = "dco@runningstream.net"
+
+[Social]
+    twitter = "stream_running"
