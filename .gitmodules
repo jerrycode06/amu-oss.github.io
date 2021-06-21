@@ -1,3 +1,3 @@
-[submodule "themes/hugograyscale"]
-	path = themes/hugograyscale
-	url = https://github.com/runningstream/hugograyscale.git
+[submodule "themes/bigspring-hugo"]
+	path = themes/bigspring-hugo
+	url = https://github.com/themefisher/bigspring-hugo-startup-theme.git

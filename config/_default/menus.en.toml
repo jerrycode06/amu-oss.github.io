@@ -1,0 +1,33 @@
+# main menu
+[[main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[main]]
+name = "Blog"
+url = "blog"
+weight = 2
+
+[[main]]
+name = "Contact"
+url = "contact"
+weight = 4
+
+[[main]]
+name = "FAQ"
+url = "faq"
+weight = 5
+
+# footer menu middle
+[[footer_middle]]
+name = "Privacy Policy"
+url = "privacy-policy"
+
+[[footer_middle]]
+name = "Terms & Conditions"
+url = "terms-conditions"
+
+[[footer_middle]]
+name = "FAQ"
+url = "faq"

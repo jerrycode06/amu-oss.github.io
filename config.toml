@@ -1,17 +1,15 @@
-baseURL = "https://amu-oss.github.io/"
-languageCode = "en-us"
+######################## default configuration ####################
+baseURL = "http://examplesite.org/"
 title = "AMU-OSS"
-theme = "hugograyscale"
-#googleAnalytics = ""
-disableKinds = ["taxonomy", "taxonomyTerm"]
-
-[params]
-    # Provide some metadata for search and indexing services
-    description = "Tech community - Of the students, By the students, For the students"
-
-[Author]
-    name = "AMU-OSS"
-    email = "dco@runningstream.net"
-
-[Social]
-    twitter = "stream_running"
+theme = "bigspring-hugo"
+# post pagination
+paginate = "3"
+# post excerpt
+summaryLength = "15"
+# disqus short name
+disqusShortname = "" # get your shortname form here : https://disqus.com
+# google analytics
+googleAnalytics = "" # example : UA-123-45
+# unsafe html
+[markup.goldmark.renderer]
+unsafe = true
