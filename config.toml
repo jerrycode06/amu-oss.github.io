@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "http://examplesite.org/"
+baseURL = "https://amu-oss.github.io"
 title = "AMU-OSS"
 theme = "bigspring-hugo"
 # post pagination
